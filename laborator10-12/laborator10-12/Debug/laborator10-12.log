@@ -1,0 +1,23 @@
+﻿  Service.cpp
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(25,99): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(25,101): warning C5043: 'Service::addArtist': exception specification does not match previous declaration
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.h(25): message : see declaration of 'Service::addArtist'
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(38,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(38,50): warning C5043: 'Service::addMovie': exception specification does not match previous declaration
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.h(27): message : see declaration of 'Service::addMovie'
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(50,63): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(50,65): warning C5043: 'Service::getAll': exception specification does not match previous declaration
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.h(30): message : see declaration of 'Service::getAll'
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(60,71): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(60,73): warning C5043: 'Service::getElement': exception specification does not match previous declaration
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.h(32): message : see declaration of 'Service::getElement'
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(70,27): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(70,29): warning C5043: 'Service::updateArtist': exception specification does not match previous declaration
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.h(34): message : see declaration of 'Service::updateArtist'
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(86,27): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.cpp(86,29): warning C5043: 'Service::updateMovie': exception specification does not match previous declaration
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\Service.h(37): message : see declaration of 'Service::updateMovie'
+  app_coordinator.cpp
+  Generating Code...
+C:\Users\cipri\source\repos\laborator10-12\laborator10-12\RepoFile.h(63): warning C4715: 'RepoFile<Festival>::getElement': not all control paths return a value
+  laborator10-12.vcxproj -> C:\Users\cipri\source\repos\laborator10-12\Debug\laborator10-12.exe

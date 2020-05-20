@@ -1,0 +1,5 @@
+SHOW Sia* 30.06.2021 Cluj* 65 1055
+SHOW Ruel* 13.06.3023 e3* 0 146
+SHOW ANA* Maria floare* 12 34
+SHOW Sia* 2.0 Meziad* 65 255
+SHOW Maria* 23.95.5040 Ma'* 12 34

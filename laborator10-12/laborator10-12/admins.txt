@@ -1,0 +1,15 @@
+ADMIN ana@email.com 123#ANA01
+ADMIN maria@email.com 123#ANA02
+ADMIN andrei@email.com 123#ANA03
+ADMIN crina@email.com 123#ANA04
+ADMIN john@email.com 123#ANA05
+ADMIN cipri@email.com 123#ANA06
+ADMIN gabi@email.com 123#ANA07
+ADMIN iulia@email.com 123#ANA08
+ADMIN calin@email.com 123#ANA09
+ADMIN maian@email.com 123#ANA10
+ADMIN crina@email.com 123456
+ADMIN calinc@email.com iepure01
+ADMIN anamaria@gmail.ro untold2019
+ADMIN anamaria@gmail.ro untold2019
+ADMIN anonimul@email.com 19752324
